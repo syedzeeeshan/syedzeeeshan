@@ -1,5 +1,5 @@
 # 💫 About Me:
-*About Me* - review the below/ edit and finalize to update in "About me"
+*About Me* -
 
 I'm a passionate MERN Stack Developer and a Computer Science Engineering (CSE) 2nd Year student at Aalim Muhammed Salegh College of Engineering. I enjoy building web applications and continuously exploring new technologies to sharpen my skills.
 
