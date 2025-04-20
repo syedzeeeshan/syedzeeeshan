@@ -36,6 +36,9 @@ Networking with like-minded developers and open-source contributors
 
 
 
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.asadullahzeeshan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-a-zeeshan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shanzee1050@gmail.com) 
 
@@ -50,12 +53,12 @@ Networking with like-minded developers and open-source contributors
 ![](https://github-profile-trophy.vercel.app/?username=syedzeeeshan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=syedzeeeshan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=syedzeeeshan&icon=8&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=syedzeeeshan&icon=10&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
