@@ -1,5 +1,37 @@
 # 💫 About Me:
-currently working on the javascript , html, css tailwind css, react  js, node js, express js <br>im looking to colloborate with the web developer<br>im looking for help with the ai ml concepts <br><br>currently learning spring boot java<br>
+*About Me* - review the below/ edit and finalize to update in "About me"
+
+I'm a passionate MERN Stack Developer and a Computer Science Engineering (CSE) 2nd Year student at Aalim Muhammed Salegh College of Engineering. I enjoy building web applications and continuously exploring new technologies to sharpen my skills.
+
+🔧 Tech Stack & Interests
+
+💻 Frontend: HTML, CSS, JavaScript, jQuery, React.js
+
+🛠️ Backend: Node.js, Express.js
+
+🗄️ Database: MongoDB
+
+🧠 Currently Learning: AI & Machine Learning Concepts
+
+🧪 Exploring: REST APIs, Git & GitHub, Deployment tools
+
+🌱 As a Fresher, I'm:
+
+Actively working on personal and academic projects to build a strong portfolio
+
+Participating in hackathons, coding challenges, and online courses to level up
+
+Open to learning from real-world collaborations and experienced developers
+
+🤝 Open to:
+
+Collaborations on web and AI-related projects
+
+Internships, mentorship, and learning opportunities
+
+Networking with like-minded developers and open-source contributors
+
+📌 Goal: To become a well-rounded Fullstack Developer who builds impactful, scalable tech solutions.
 
 
 ## 🌐 Socials:
