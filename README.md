@@ -5,7 +5,7 @@ I'm a passionate MERN Stack Developer and a Computer Science Engineering (CSE) 2
 
 🔧 Tech Stack & Interests
 
-💻 Frontend: HTML, CSS, JavaScript, jQuery, React.js
+💻 Frontend: HTML, CSS, JavaScript, jQuery, React.js,Tailwind CSS
 
 🛠️ Backend: Node.js, Express.js
 
